@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work with 
 !Tara's GitHub stats
 
 ## 🔗 Connect with Me
-- (Twitter/X)[<>]
-- (YouTube)[<https://www.youtube.com/@TaravaskQ>]
+- [Twitter/X](<>)
+- [YouTube](<https://www.youtube.com/@TaravaskQ>)
 - [Discord Server](<https://discord.gg/invite/invlinknull>)
 
 Thanks for visiting my profile! Have a great day! 😊
