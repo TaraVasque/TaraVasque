@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work with 
 - **Python** ***Learning***
 
 ## 📈 GitHub Stats
-!Tara's GitHub stats
+nothing yet :3
 
 ## 🔗 Connect with Me
 - [Twitter/X](<>)
