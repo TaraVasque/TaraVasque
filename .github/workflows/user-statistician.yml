@@ -12,14 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Generate the languages distribution
-      uses: cicirello/user-statistician@v1
-      with:
-        image-file: images/languages.svg
-        hide-keys: general, contributions, repositories
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-
+   
     - name: Generate the contributions stats
       uses: cicirello/user-statistician@v1
       with:
