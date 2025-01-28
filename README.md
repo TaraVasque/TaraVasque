@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work with 
 - **Python** ***Learning***
 
 ## 📈 GitHub Stats
-nothing yet :3
+![GitHub Stats](https://github-readme-stats.vercel.app/api &theme=radical)
 
 ## 🔗 Connect with Me
 - [Twitter/X](<>)*also not set up
