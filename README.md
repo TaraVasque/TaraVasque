@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work with 
 nothing yet :3
 
 ## 🔗 Connect with Me
-- [Twitter/X](<>)
-- [YouTube](<https://www.youtube.com/@TaravaskQ>)
-- [Discord Server](<https://discord.gg/invite/invlinknull>)
+- [Twitter/X](<>)*also not set up
+- [YouTube](<https://www.youtube.com/@Taravask>)
+- [Discord Server](<https://discord.gg/invite/invlinknull>)*not set up yet lol
 
 Thanks for visiting my profile! Have a great day! 😊
