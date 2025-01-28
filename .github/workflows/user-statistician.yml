@@ -11,13 +11,12 @@ jobs:
       
     steps:
     - uses: actions/checkout@v4
-
    
     - name: Generate the contributions stats
       uses: cicirello/user-statistician@v1
       with:
         image-file: images/contribs.svg
-        hide-keys: general, languages, repositories
+        hide-keys: general, repositories
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
@@ -25,6 +24,6 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         image-file: images/repos.svg
-        hide-keys: general, contributions, languages
+        hide-keys: general, contributions
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
