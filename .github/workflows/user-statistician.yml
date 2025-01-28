@@ -18,7 +18,7 @@ jobs:
         image-file: images/contribs.svg
         hide-keys: general, repositories
       env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        secrets: ${{secrets.TOKEN}}
 
     - name: Generate the repositories stats
       uses: cicirello/user-statistician@v1
@@ -26,4 +26,4 @@ jobs:
         image-file: images/repos.svg
         hide-keys: general, contributions
       env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+       secrets: ${{secrets.TOKEN}}
