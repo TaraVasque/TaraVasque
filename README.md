@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work with 
 - 🌱 I’m currently learning C#, C++, and Python.
 - 🎮 I enjoy creating tutorials for video games.
 - 💼 I'm proficient in Batch Script, JavaScript, HTML, and CSS.
-- 💼 i have the ITF+ certificate, fanuc workforce certificate, and im working on getting my CSWA certificate
+- 💼 i have the ITF+ certificate, and my fanuc workforce certificate.
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about anything related to coding and technology.
 - 📫 How to reach me: [taravaskg@gmail.com]
