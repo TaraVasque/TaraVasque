@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work with 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarasque&theme=radical)
 
 ## 🔗 Connect with Me
-- [Twitter/X](<>)*also not set up
+- [Twitter/X](<https://x.com/Taravask>)
 - [YouTube](<https://www.youtube.com/@Taravask>)
-- [Discord Server](<https://discord.gg/invite/invlinknull>)*not set up yet lol
+- [Discord Server](<https://discord.com/invite/vk7uEqTNFx>)
 
 Thanks for visiting my profile! Have a great day! 😊
